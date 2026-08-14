@@ -71,14 +71,26 @@ I am a passionate **Software Engineer** specializing in building high-performanc
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tungske&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="175px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tungske&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff,HTML,CSS" height="175px" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=tungske&show_icons=true&theme=react&hide_border=false&border_color=30363D&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF">
+    <img height="195px" alt="Tungske GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=tungske&show_icons=true&theme=react&hide_border=false&border_color=E4E2E2&bg_color=FFFFFF&title_color=F85D7F&icon_color=F8D866&text_color=333333" />
+  </picture>
+  &nbsp;&nbsp;
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tungske&layout=compact&theme=react&hide_border=false&border_color=30363D&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff,HTML,CSS">
+    <img height="195px" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tungske&layout=compact&theme=react&hide_border=false&border_color=E4E2E2&bg_color=FFFFFF&title_color=F85D7F&icon_color=F8D866&text_color=333333&hide=Jupyter%20Notebook,Roff,HTML,CSS" />
+  </picture>
 </div>
 
 <br />
 
+
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tungske&theme=react&hide_border=true&background=1F222E&stroke=000000&ring=F8D866&fire=FFC107&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8D866" alt="Streak Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=tungske&theme=react&hide_border=false&border=30363D&background=1F222E&stroke=000000&ring=F8D866&fire=FFC107&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8D866">
+    <img height="195px" alt="Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=tungske&theme=react&hide_border=false&border=E4E2E2&background=FFFFFF&stroke=000000&ring=F8D866&fire=FFC107&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=333333&sideLabels=333333&dates=F8D866" />
+  </picture>
 </div>
 
 ---
