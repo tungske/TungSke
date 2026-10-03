@@ -1,4 +1,5 @@
-<!-- Typing SVG Header -->
+<!-- Header -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Tung!+Welcome+to+my+profile!+%E2%9C%A8;A+Software+Engineer+%7C+.NET+%26+Fullstack+Dev+%F0%9F%92%BB;Let's+build+something+cold+together!" alt="Typing SVG" />
 </p>
@@ -8,12 +9,18 @@
   <a href="https://www.linkedin.com/in/tungtrinhson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
-  <a href="mailto:trinhsontung2410@gmail.com" target="_blank">
+
+  <a href="mailto:trinhsontung2410@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
   </a>
+
   <a href="https://facebook.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tungske&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- Hero GIF Banner -->
@@ -96,5 +103,6 @@ I am a passionate **Software Engineer** specializing in building high-performanc
 ---
 
 ### 🎵 My Favorite Song
-
-<img src="favorite_song.svg"/>
+<p align="center"> 
+  <img src="favorite_song.svg"/> 
+</p>
