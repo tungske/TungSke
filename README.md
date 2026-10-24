@@ -23,18 +23,9 @@
 </p>
 
 <!-- Hero GIF Banner -->
-<p align="center">
-  <video
-    src="blacksouls-library-dream.mp4"
-    width="800"
-    autoplay
-    loop
-    muted
-    playsinline
-    style="max-width: 100%; height: auto;"
-  ></video>
-</p>
-
+<div align="center">
+  <img src="blacksouls-library-dream.gif" width="100%" alt="Anime Coding GIF" style="border-radius: 10px;" />
+</div>
 
 ---
 
