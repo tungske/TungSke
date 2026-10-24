@@ -1,11 +1,10 @@
 <!-- Header -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Tung!+Welcome+to+my+profile!+%E2%9C%A8;A+Software+Engineer+%7C+.NET+%26+Fullstack+Dev+%F0%9F%92%BB;Let's+build+something+cold+together!" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/tungtrinhson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
@@ -17,7 +16,7 @@
   <a href="https://facebook.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tungske&color=blue&style=flat-square" alt="Profile Views" />
@@ -25,8 +24,17 @@
 
 <!-- Hero GIF Banner -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif" width="400" alt="Anime Coding GIF" style="border-radius: 10px;" />
+  <video
+    src="blacksouls-library-dream.mp4"
+    width="800"
+    autoplay
+    loop
+    muted
+    playsinline
+    style="max-width: 100%; height: auto;"
+  ></video>
 </p>
+
 
 ---
 
